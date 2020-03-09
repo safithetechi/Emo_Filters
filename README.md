@@ -8,15 +8,7 @@ Emotional Filters: Automatic Image Transformation for Inducing Affect ( https://
 <img src="https://github.com/safithetechi/Emo_Filters/blob/master/ImagesForReadMe/Screenshot%20from%202020-03-09%2013-46-03.png?raw=true">
 
 
-
 Progressive color transfer for images of arbitrary dynamic range ( http://erikreinhard.com/papers/pouli_cag2010.pdf )
-
-<img src= "https://github.com/safithetechi/Emo_Filters/blob/master/ImagesForReadMe/Screenshot%20from%202020-03-09%2014-17-10.png?raw=true">
-
-<img src= "https://github.com/safithetechi/Emo_Filters/blob/master/ImagesForReadMe/Screenshot%20from%202020-03-09%2014-17-10.png?raw=true">
-
-
-<img src= "https://github.com/safithetechi/Emo_Filters/blob/master/ImagesForReadMe/Screenshot%20from%202020-03-09%2014-18-07.png?raw=true">
 
 
 
