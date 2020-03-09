@@ -9,7 +9,7 @@ Progressive color transfer for images of arbitrary dynamic range ( http://erikre
 <table>
   <tr>
     <td>Before Transformation</td>
-     <td>Holiday Mention</td>
+     <td>After Transformation</td>
   </tr>
   <tr>
     <td><img src="https://raw.githubusercontent.com/safithetechi/Emo_Filters/master/ImagesForReadMe/232.jpg" width=270 height=480/></td>
@@ -24,4 +24,3 @@ Progressive color transfer for images of arbitrary dynamic range ( http://erikre
 
 
 
-***After Transformation***
