@@ -6,9 +6,22 @@ Progressive color transfer for images of arbitrary dynamic range ( http://erikre
 
 
 
-***Before Transformation***
-<img src="https://raw.githubusercontent.com/safithetechi/Emo_Filters/master/ImagesForReadMe/232.jpg" />
+<table>
+  <tr>
+    <td>Before Transformation</td>
+     <td>Holiday Mention</td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/safithetechi/Emo_Filters/master/ImagesForReadMe/232.jpg" width=270 height=480/></td>
+    <td><img src="https://github.com/safithetechi/Emo_Filters/blob/master/ImagesForReadMe/G9A8CV.jpg?raw=true" width=270 height=480/>
+</td>
+  </tr>
+ </table>
+
+
+
+
+
 
 
 ***After Transformation***
-<img src="https://github.com/safithetechi/Emo_Filters/blob/master/ImagesForReadMe/G9A8CV.jpg?raw=true" />
