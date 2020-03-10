@@ -12,10 +12,13 @@ Progressive color transfer for images of arbitrary dynamic range ( http://erikre
 
 <img src="https://github.com/safithetechi/Emo_Filters/blob/master/ImagesForReadMe/Screenshot%20from%202020-03-09%2013-47-26.png?raw=true">
 
+<img src="https://github.com/safithetechi/Emo_Filters/blob/master/ImagesForReadMe/Screenshot%20from%202020-03-09%2014-17-10.png?raw=true">
 
+<img src="https://github.com/safithetechi/Emo_Filters/blob/master/ImagesForReadMe/Screenshot%20from%202020-03-09%2014-18-07.png?raw=true">
 
+<img src="https://github.com/safithetechi/Emo_Filters/blob/master/ImagesForReadMe/Screenshot%20from%202020-03-09%2014-26-30.png?raw=true">
 
-
+<img src="https://github.com/safithetechi/Emo_Filters/blob/master/ImagesForReadMe/Screenshot%20from%202020-03-09%2014-27-11.png?raw=true">
 
 <table>
   <tr>
