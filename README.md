@@ -20,6 +20,8 @@ Progressive color transfer for images of arbitrary dynamic range ( http://erikre
 
 <img src="https://github.com/safithetechi/Emo_Filters/blob/master/ImagesForReadMe/Screenshot%20from%202020-03-09%2014-27-11.png?raw=true">
 
+<img src="https://github.com/safithetechi/Emo_Filters/blob/master/ImagesForReadMe/Screenshot%20from%202020-03-09%2014-27-32.png">
+
 <table>
   <tr>
     <td>Before Transformation</td>
